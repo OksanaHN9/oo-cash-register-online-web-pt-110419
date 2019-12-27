@@ -10,3 +10,4 @@ def birthday
   self.age += 1 
 end 
 end 
+
